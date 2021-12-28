@@ -31,3 +31,6 @@ app.use(require("./routes/api.js"));
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
+
+//mongodb+srv://humkeyg:p@ssw0rd@cluster0.gntg4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+//MONGODB_URI
